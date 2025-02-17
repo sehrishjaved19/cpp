@@ -1,2 +1,3 @@
 # cpp
-My initial projects
+My initial project.
+CPP BEGINNER PROGRAMMER.
